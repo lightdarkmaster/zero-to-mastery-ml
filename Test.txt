@@ -1,1 +1,5 @@
 This is my Testing Purposes...
+
+Notes:
+1. Machine learning is just a mathematical base prediction base on the analysis and predictions.
+2. Models are trained mathematical algorithms thats specifically base on datasets feeds.
